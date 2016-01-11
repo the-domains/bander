@@ -2,6 +2,7 @@ name: bander
 favicon: null
 layout_spectrum: 0.8965637355577201
 typography_spectrum: 0.04942525993101299
+title: a digital junk drawer
 cta:
   domain: null
   bucket: null
