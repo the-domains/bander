@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bander]]></title>
-        <description><![CDATA[bander]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[a digital junk drawer]]></title>
+        <description><![CDATA[a digital junk drawer]]></description>
+        <link>https://thegrid.ai/bander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 07:53:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 08:09:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bander/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>So this is my first Grid post, and I'm really just taking a look at how this is supposed to work. I thought it was supposed to automatically add content based on social media outlets (or something of that nature - I'm not 100% sure), but it kind of looks like a glorified blogging platform.</p>]]></description>
-            <link>undefineda1d92f3e-8b23-4428-af1a-260bc3e3bd6d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ce13765-01f2-4950-b811-8a7eeb700d78.jpg">]]></description>
+            <link>https://thegrid.ai/bander/a1d92f3e-8b23-4428-af1a-260bc3e3bd6d/index.html</link>
             <guid isPermaLink="false">a1d92f3e-8b23-4428-af1a-260bc3e3bd6d</guid>
-            <pubDate>Mon, 11 Jan 2016 07:53:23 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 08:09:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
